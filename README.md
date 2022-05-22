@@ -1,2 +1,2 @@
-# SQL_Analise_1
+# SQL_Analise_Anvisa
 Vamos usar SQL para analisar dados de inspeções sanitárias em navios de cruzeiro, com dados reais disponíveis publicamente.   Os dados são da ANVISA.  Nosso objetivo será compreender algumas características dos dados como os navios com pior classificação de risco, os navios com índices de conformidade mais alto, os navios com alta pontuação de risco, entre outros detalhes.   Os dados e o dicionarios de dados estão disponiveis no repositorio. 
